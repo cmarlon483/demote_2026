@@ -2,7 +2,7 @@
 ## Temas especiales ICO - 2026
 ### Profesor: Jesús H. C. 
 #### Alumno: Marlon G. Cortés S.
-# Otro titulo 
+#Otro titulo 
 
 ###### título 6
 
@@ -31,3 +31,6 @@ def sumar (a, b){
 
 }
 '''
+# Goku 
+
+![goku facha](https://fish.audio/_next/image/?url=https%3A%2F%2Fpublic-platform.r2.fish.audio%2Fcoverimage%2F6c8645b95abb44e0b9095ae3b241e4cc&w=256&q=75)
