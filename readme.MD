@@ -26,11 +26,11 @@
 Para escribir tipografia es muy parecido a la estrategia usada en Whatsapp.
 Esto esta en **negritas** y esta _palabra_ esta en cursivas.
 
-'''
+```python
 def sumar (a, b){
 
 }
-'''
+```
 # Goku 
 
 ![goku facha](https://fish.audio/_next/image/?url=https%3A%2F%2Fpublic-platform.r2.fish.audio%2Fcoverimage%2F6c8645b95abb44e0b9095ae3b241e4cc&w=256&q=75)
